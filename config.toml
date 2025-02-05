@@ -1,9 +1,9 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
-parallel-jobs = 1
+parallel-jobs = 2
 
 [Music-Extended]
 enabled = true
-app-name = "Y.M"
+app-name = "Y.Music"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
