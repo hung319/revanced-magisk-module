@@ -3,7 +3,7 @@ parallel-jobs = 1
 
 [Music-Extended]
 enabled = true
-app-name = "YME"
+app-name = "Y.M"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
@@ -14,7 +14,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-Extended]
 enabled = true
-app-name = "YE"
+app-name = "Youtube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
